@@ -1,0 +1,22 @@
+(Lembrete de sites)
+
+https://www.tutorialspoint.com/cprogramming/
+
+
+
+(Lembrete para entrar no gedit, com terminal funcionando em paralelo)
+
+gedit &
+
+
+
+(Lembrete para compilar e executar)
+
+cd Downloads
+gcc arq.c -lm -o arqEX.exe
+./arqEx.exe
+
+
+(Lembrete )
+
+
